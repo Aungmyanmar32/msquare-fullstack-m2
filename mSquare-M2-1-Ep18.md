@@ -21,10 +21,10 @@
 ### အဓိကအားဖြင့် serverကနေ data တွေယူတဲ့အခါ data ယူပြီးတဲ့အထိ ပြီးအောင်စောင့်ခိုင်းပြီးမှ ရလာတဲ့data ကို မူတည်ပြီး ကျန်တဲ့လုပ်ဆောင်ချက်တွေကို ဆက်run ခိုင်းချင်တဲ့အချိန်မှာ အများဆုံး အသုံးပြုလေ့ရှိပါတယ်။
 
 ### Syntax
-`async` ( ) => {
-  `await` step1-code
-  `await` step2-code
-  `await` step3-code
+`async` ( ) => {<br>
+  `await` step1-code<br>
+  `await` step2-code<br>
+  `await` step3-code<br>
 }
 
 ### Using `async function` with `fetch` api
