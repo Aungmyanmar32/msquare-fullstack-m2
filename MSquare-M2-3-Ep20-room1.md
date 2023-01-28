@@ -103,6 +103,6 @@ server.listen(3000, () => {
  - server.js မှာ code အသစ်ရေးလိုက်တိုင်း /တစ်ခုခုပြင်လိုက်တိုင်း run ထားတဲ့ node server ကို  restart (ပိတ်/ဖွင့်) ပြန်လုပ်ပေးရလေ့ရှိပါတယ်။
  - nodemon ကို အသုံးပြုလိုက်မယ်ဆိုရင် **server.js မှာ ပြောင်းလဲမှုရှိတိုင်း** server ကို **restart ပြန်လုပ်စရာမလိုတော့ပဲ** nodemon က ပြောင်းလဲမှုများကို **စောင့်ကြည့်ကာ auto restart လုပ်**ပေးနိုင်ပါတယ်။
 ### Install Nodemon  globally by using NPM
- - terminal ထဲမှာ `npm i -g nodemon` ဆိုတဲ့ command ကို run ပေးလိုက်ရုံနဲ့ nodemon ကို NodeJS မှာ အသုံးပြုလို့ ရပါပြီး။( `i` = install , `-g` = install in globally (**can use any Dir** ) )
+ - terminal ထဲမှာ `npm i -g nodemon` ဆိုတဲ့ command ကို run ပေးလိုက်ရုံနဲ့ nodemon ကို NodeJS မှာ အသုံးပြုလို့ ရပါပြီး။<br>( `i` = install , `-g` = install in globally (**can use any Dir** ) )
 - nodemon ကို အသုံးပြုပြီး node sever run မယ်ဆိုရင် `node server.js` အစား `nodemon server.js` လို့ ပြောင်းရေးပေးရမှာ ဖြစ်ပါတယ်။
 - ![enter image description here](https://raw.githubusercontent.com/Aungmyanmar32/msquare-fullstack-m2/main/ep20-1-3.jpg)
