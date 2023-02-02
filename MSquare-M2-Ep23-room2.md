@@ -7,7 +7,7 @@
 ## 
 
 - git ကို အသုံးပြုချင်ရင် မိမိရဲ့ project folder ထဲမှာ git ကို init လုပ်ပေးရပါမယ်။
-```properties
+```console
 git init
 ```
 ##
@@ -15,7 +15,7 @@ git init
 -  `git status` ဖြင့် လက်ရှိ မည်သည့်အခြေအနေ ရောက်နေကြောင်း ကြည့်နိုင်သည်။
  1. wotking tree
  - ရေးထားသောကုဒ်တွေကို git ဖြင့် မှတ်တမ်းမတင်ရသေးပဲ အလုပ်လုပ်နေဆဲ အခြေအနေ
-```js
+```console
 Admin@MSquare MINGW64 ~/Desktop/exercises/googleMeet (master)
 $ git status
   On branch master
@@ -50,7 +50,7 @@ Changes to be committed:
 3.  commited 
 - ( မှတ်တမ်းတင် သိမ်းလိုက်ပြီးသော အခြေအနေ)
 - Staging Area မှ commited သို့ သိမ်းမယ့် မှတ်တမ်းများကို သိမ်းရန် `git commit -m "Your message"` ကို အသုံးပြုပါ။
-```properties
+```console
 Admin@MSquare MINGW64 ~/Desktop/exercises/googleMeet (master)
 $ git commit -m "started project"
 [master (root-commit) e442c7b] started project
@@ -68,7 +68,7 @@ git branch တစ်ခု ကနေ နောက်တစ်ခြား branch
 ခု ကျနော်တို့မှာက branch တစ်ခုပဲရှိတဲ့ အတွက် နောက်ထပ် branch တစ်ခု ပြုလုပ်ပြီးမှ လက်ရှိ branch ကနေ သွားလို့ရမှာပါ။<br>
 ဒါကြောင့်မလို့ ကျနော်တို့က `git switch -c new-branch-name` ကို သုံးရပါမယ်။ဒီ command က **ပေးလိုက်တဲ့ နာမည်နဲ့ branch အသစ်တစ်ခု လုပ်**ပေးပြီး ၊ ထို **အသစ်လုပ်တဲ့ branch ထဲ တစ်ခါထဲ ၀င်ရောက်ပေးသွားမှာ** ဖြစ်ပါတယ်။<br>
 ဒါ့အပြင် **လက်ရှိ branch က commit history တွေကို အကုန်ကူးယူပြီး အသစ်လုပ်တဲ့ branch ထဲ သွားထည့်ပေး**သွားမှာပါ။
-```properties
+```console
 Admin@MSquare MINGW64 ~/Desktop/exercises/googleMeet (master)
 $ git switch -c feat/sidebar
 Switched to a new branch 'feat/sidebar'
@@ -81,7 +81,7 @@ e442c7b (HEAD -> feat/sidebar, master) started project
 ### git branch 
 - မိမိ ဘယ် အကိုင်းထဲ ရောက်နေသလဲ သိချင်ရင် git branch ကို သုံးပါတယ်။
 - အကိုင်း တစ်ခု ကနေ တစ်ခု သို့ သွားချင်ရင် git switch branch-name ကို သုံးရပါမယ်
-```properties
+```console
 Admin@MSquare MINGW64 ~/Desktop/exercises/googleMeet (feat/sidebar)
 $ git branch
 * feat/sidebar
@@ -98,7 +98,7 @@ $
   ### git merge
   branch တွေကို ပေါင်းဖို့အတွက် သုံးပါတယ်။
   #### `git merge branch-name` လို့ ရေးပေးရပါတယ်။
-  ```properties
+  ```console
   Admin@MSquare MINGW64 ~/Desktop/exercises/googleMeet (master)
 $ git merge feat/sidebar 
 Updating e442c7b..417e492
