@@ -15,7 +15,7 @@ git init
 -  `git status` ဖြင့် လက်ရှိ မည်သည့်အခြေအနေ ရောက်နေကြောင်း ကြည့်နိုင်သည်။
  1. wotking tree
  - ရေးထားသောကုဒ်တွေကို git ဖြင့် မှတ်တမ်းမတင်ရသေးပဲ အလုပ်လုပ်နေဆဲ အခြေအနေ
-```properties
+```js
 Admin@MSquare MINGW64 ~/Desktop/exercises/googleMeet (master)
 $ git status
   On branch master
@@ -31,7 +31,7 @@ nothing added to commit but untracked files present (use "git add" to track)
 2. Staging Area
 - မှတ်တမ်းတင်ရန် အဆင်သင့်ဖြစ်နေသော အခြေအနေ
 - working tree မှ Staging Areaသို့ သိမ်းမယ့် မှတ်တမ်းများကို ပို့ရန် `git add filename` ကို အသုံးပြုပါ။
-```properties
+```console
 Admin@MSquare MINGW64 ~/Desktop/exercises/googleMeet (master)
 $ git add index.html
 
