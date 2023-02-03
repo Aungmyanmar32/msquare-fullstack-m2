@@ -98,7 +98,7 @@ npm init --y
 - domin နေရာက link မှတဆင့် လုပ်ထားတဲ့ project ကို webpage တစ်ခုအနေနဲ့ ကြည့်လို့ ရပါပြီး
 - 
 ![enter image description here](https://raw.githubusercontent.com/Aungmyanmar32/msquare-fullstack-m2/main/vercel6.png)
-- အောက်ကပုံက  ကျနော်ရေးထားတဲ့ weather  api project ကို vercel link နဲ့ ၀င်ကြည့်တာထားတာ ဖြစ်ပါတယ်။
+- အောက်ကပုံက  ကျနော်ရေးထားတဲ့ weather  api project ကို vercel link https://werther-api-test-4dq1.vercel.app နဲ့ ၀င်ကြည့်တာထားတာ ဖြစ်ပါတယ်။
 ![enter image description here](https://raw.githubusercontent.com/Aungmyanmar32/msquare-fullstack-m2/main/vercel7.png)
 
 ##
