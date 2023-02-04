@@ -3,7 +3,7 @@
 ### Summary For `Room(1)` intermediate Class
 ##
 ### Upload Simple NodeJS CURD to Render web server
-- အရင်ဆုံ ပြီးခဲ့တဲ့ သင်ခန်းစာမှာ လေ့ကျင့်ထားခဲ့တဲ့ node curd project ကို  github မှာ repo တစ်ခုလုပ်ပြီး တင်ထားပေးပါ။
+- အရင်ဆုံ: ပြီးခဲ့တဲ့ သင်ခန်းစာမှာ လေ့ကျင့်ထားခဲ့တဲ့ node curd project ကို  github မှာ repo တစ်ခုလုပ်ပြီး တင်ထားပေးပါ။
 - https://dashboard.render.com/ ကို သွားပါ။
 - singin မှာ  github  ကိုရွေးပေးပါ
 - Authorize Render ကို ကလစ်ပါ။
