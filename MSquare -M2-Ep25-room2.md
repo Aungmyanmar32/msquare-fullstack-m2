@@ -225,8 +225,8 @@ else {
 ##
 ##
 ### Json
-javascript object တစ်မျိုးဖြစ်ပါတယ်။ javascript object ဆိုပေမယ့် ပုံမှန် objcet တွေမှာ undefined , function စတဲ့ property value တွေ ထည့်ရေးလို့မရပါဘူး။
-property name တွေကိုလဲ string ထဲမှာ ရေးပေးရပါတယ်။ api (database) ကနေ ပြန်လာတဲ့ data တွေဟာ အများအားဖြင့် json ပုံစံနဲ့ ပြန်လာလေ့ရှိကြပါတယ်။
+javascript object တစ်မျိုးဖြစ်ပါတယ်။ Json က javascript object ဆိုပေမယ့် ပုံမှန် objcet တွေမှာလို undefined , function စတဲ့ property value တွေ ထည့်ရေးလို့မရပါဘူး။
+property name တွေကိုလဲ string ထဲမှာ ရေးပေးရပါတယ်။ server (database) ကနေ ပြန်လာတဲ့ data တွေဟာ အများအားဖြင့် json ပုံစံနဲ့ ပြန်လာလေ့ရှိကြပါတယ်။
 ကျနော်တို့ api တွေနဲ့ ဆက်သွယ်တဲ့အခါမှာလဲ json ပုံစံနဲ့ပဲ အများဆုံး အသုံးပြုလေ့ရှိပါတယ်။
 
     //this is valid json
