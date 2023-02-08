@@ -1,5 +1,5 @@
 ﻿## MSquare Programing Fullstack Course
-### Episode-*19* Summary for (group 2) 
+### Episode-*27* Summary for (group 2) 
 
 ဒီနေ့သင်တန်းမှာတော့ <br>
 ### server က data တွေကို UI မှာ ပြသခြင်း
