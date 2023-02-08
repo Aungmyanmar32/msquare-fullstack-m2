@@ -80,7 +80,7 @@ app.use(express.static("public"))
 ### Router- level middleware
 - အရင်ဆုံး route တစ်ခု သတ်မှတ်ပါမယ်
 - routes  ဆိုတဲ့ folder တစ်ခု လုပ်ပါ။
-- ထို folderထဲမှာ route တစ်ခု အသစ်လုပ်မှာမလို့ UserRouter.js ဖိုင်တစ်ခု လုပ်ပါမယ်။
+- ထို folderထဲမှာ route တစ်ခု အသစ်လုပ်မှာမလို့ birdRouter.js ဖိုင်တစ်ခု လုပ်ပါမယ်။
 ```js
 //birdRouter.js
 const  express = require("express");
