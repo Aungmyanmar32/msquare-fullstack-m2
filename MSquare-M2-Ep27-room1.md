@@ -44,7 +44,7 @@ fetchData();
 localhost:3000 ဆိုတာ က မရှိတာမလို့  ဒီ error က ဖြစ်လာရတာပါ။
 ##
 ### အထက်ပါerror ကို ဖြေရှင်းရန်အတွက် environment ဖိုင်တစ်ခု နဲ့ ချိတ်ဆက်ပေးရပါမယ်
-- `.env` ဖိုင်တစ်ခုကို project folder မှာ create လုပ်ပြီး `API_URL = "http://lacalhost:3000"` ကို env ဖိုင်မှာ ရေးထည့်ပေးထားပါ
+- `.env` ဖိုင်တစ်ခုကို project folder မှာ create လုပ်ပြီး `API_URL = "http://localhost:3000"` ကို env ဖိုင်မှာ ရေးထည့်ပေးထားပါ
 - dotenv module ကို install လုပ်ပါ။ `npm i dotenv`
 -  index.js မှာ dotenv ကို လှမ်းယူပြီး config() method ကို ခေါ်ပေးလိုက်ပါ
 ```js
