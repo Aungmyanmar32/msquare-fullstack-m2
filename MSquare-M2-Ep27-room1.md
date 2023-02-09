@@ -55,3 +55,6 @@ dotenv.config()
 - ထည့်လိုက်တဲ့ env ထဲက API_URL ရှိမရှိကို `process.env` နဲ့ စစ်ကြည့်လို့ရပါတယ်
 
 ![enter image description here](https://raw.githubusercontent.com/Aungmyanmar32/msquare-fullstack-m2/main/express4.png)
+##
+### Try This !
+### process.env ကို front-end ဘက်ကို ပို့ရန် ကြိုးစားကြည့်ပါ။
