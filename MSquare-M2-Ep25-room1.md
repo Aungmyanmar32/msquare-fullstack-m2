@@ -150,8 +150,8 @@ testFunction({
 ### ts-node
 - ts ထဲမှာ console.log ထုတ်ထားတာကို teminal ထဲ မှာ တစ်ခါတည်းပြစေချင်ရင် ts-node module ကို သုံးလို့ရပါတယ်
 - ts-node ကို npm  နဲ့ global install လုပ်ပေးပါ
-- .ts file ကို .js  ပြန်ပြောင်းတဲ့အခါ tscကို မသုံးပဲ `ts-node script.ts` command ကို အသုံးပြုကြည့်ပါက
- ts ဖိုင်ကို ရိုးရိုး js ဖိုင်သို့ ပြောင်းပေးတဲ့ အပြင် log တွေကိုပါ terminal ထဲ ပြပေးတာ မြင်ရမှဦပါ
+-  `ts-node script.ts` command ကို အသုံးပြုကြည့်ပါက
+  log တွေကိုterminal ထဲ ပြပေးတာ မြင်ရမှာပါ
 ##
 ### Use interface in other interface
 - အထက်က လေ့လာခဲ့တဲ့ နမူနာလို interface ထဲ မှာ user object တစ်ခုလုံးကို မထည့်ပဲ သီးသန့် interface သပ်သပ်လုပ်ပြီး Props interface မှာ ပြန်ခေါ်သုံးလို့ရပါတယ်။
