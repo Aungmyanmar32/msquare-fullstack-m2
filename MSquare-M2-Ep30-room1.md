@@ -20,8 +20,9 @@
 https://www.digitalocean.com/community/tutorials/how-to-upload-a-file-to-object-storage-with-node-js
 - tutorial ထဲမှာ ထည့်ပေးရမယ့် key တွေကို အောက်မှာ ရယူပါ
 ```properties
-aws_access_key_id=DO00AGWGBAWFVGJKUVTX 
-aws_secret_access_key=83ckcc4GSag+spdD345p1kZ//5rCY0DWk9OZJ4AE03U
+aws_access_key_id
+aws_secret_access_key
+bucket name တွေ ရယူရန် ကိုအောင်မြန်မာ (သို့မဟုတ်) ဆရာ့ဆီ ဆက်သွယ်ပါ
 ```
 မှတ်ချက် ။   ။  tutorial ကို ဖတ်ကြည့်ပြီး file upload အတွက် ကိုယ်တိုင်ရေးသားရမှာဖြစ်လို့ ကြိုးစားပြီး ရေးကြည့်ကြပါ။
 ## အဆင်မပြေတဲ့ သူများ [ဒီမှာ](https://node-express-tuto.vercel.app/) ကြည့်ပါ
