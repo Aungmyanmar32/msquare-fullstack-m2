@@ -17,7 +17,7 @@
 ##
 ### node http server တစ်ခု create ပြန်လုပ်ကြည့်ပါ။
 
-```cmd
+```bat
 <!-- index.html -->
 <!DOCTYPE html>
 <html lang="en">
