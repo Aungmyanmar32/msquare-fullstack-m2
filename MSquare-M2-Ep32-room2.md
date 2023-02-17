@@ -117,6 +117,23 @@ $
 ```
 - express ကို install လုပ်လိုက်ပါက မိမိရဲ့ project folderထဲမှာ node_modules folder နဲ့ package_lock.json ဆိုပြီး နှစ်ခု ထပ်တိုးလားတာကိုမြင်ရမှာပါ။
 - ဒါ့အပြင် package.json ထဲမှာလဲ dependencies object တစ်ခု တိုးလာပြီး သူ့အထဲမှာ ကျနော်တို့ install လုပ်လိုက်တဲ့ express ကို ပြပေးနေတာကို မြင်ရမှာပါ။
+```properties
+{
+  "name": "npm-express-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
+
+```
 -  ကျနော်တို့ install လုပ်လိုက်တဲ့ node module တွေကို အဆိုပါ dependencies object အထဲမှာ ၀င်ကြည့်နိုင်ပါတယ်။
 
 ![enter image description here](https://raw.githubusercontent.com/Aungmyanmar32/msquare-fullstack-m2/main/00exr21.png)
