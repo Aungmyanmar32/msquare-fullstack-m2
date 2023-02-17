@@ -26,12 +26,12 @@ ssh User-name@IP-Address
 - Security check မေးလာရင် yes ထည့်ပေးပါ
 - password တောင်းလာရင် msquareprograming discord acc မှာ တိုက်ရိုက်တောင်းယူထားတဲ့ passwordကိုထည့်ပေးပါ
 
-![enter image description here](https://raw.githubusercontent.com/Aungmyanmar32/msquare-fullstack-m2/main/docdrop311.png)
+![enter image description here](https://raw.githubusercontent.com/Aungmyanmar32/msquare-fullstack-m2/main/docdropo311.png)
 - passwordကိုရိုက်ထည့်ပေးတဲ့အခါ terminal မှာ ဘာမှမပြပေးတာကို သတိပြုပါ
 - password ကို မှန်အောင်သာ ရိုက်ထည့်ပေးပြီး enter ခေါက်လိုက်ပါ
 - အောက်ကပုံအတိုင်း ပြလာပြီးဆိုရင် **DOD** (Digital Ocean Droplet) ထဲ ရောက်နေပြီး အသုံးပြုလို့ရပါပြီး
 
-![enter image description here](https://raw.githubusercontent.com/Aungmyanmar32/msquare-fullstack-m2/main/docdrop312.png)
+![enter image description here](https://raw.githubusercontent.com/Aungmyanmar32/msquare-fullstack-m2/main/docdropo312.png)
 ##
 ### exercises
 -  CLI ကို အသုံးပြုပြီး DOD မှာ folder တစ်ခု တည်ဆောက်ကြည့်ပါ
