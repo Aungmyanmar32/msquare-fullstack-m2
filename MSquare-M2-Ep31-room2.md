@@ -17,7 +17,7 @@
 ##
 ### node http server တစ်ခု create ပြန်လုပ်ကြည့်ပါ။
 
-```console
+```{r, engine='bash', count_lines}
 <!-- index.html -->
 <!DOCTYPE html>
 <html lang="en">
