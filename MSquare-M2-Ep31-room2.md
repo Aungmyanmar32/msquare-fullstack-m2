@@ -17,7 +17,7 @@
 ##
 ### node http server တစ်ခု create ပြန်လုပ်ကြည့်ပါ။
 
-```html
+```console
 <!-- index.html -->
 <!DOCTYPE html>
 <html lang="en">
