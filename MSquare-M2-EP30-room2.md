@@ -1,6 +1,6 @@
 ﻿## MSquare Programing Fullstack Course
 
-### Episode-_19_  Summary for (group 2)
+### Episode-_30_  Summary for (group 2)
 
 ဒီနေ့သင်တန်းမှာတော့  
 
